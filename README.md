@@ -14,7 +14,6 @@ DevConnector is a minimal backend social network application for developers, bui
 ### Prerequisites
 
 - Go (Golang)
-- MongoDB
 
 ### Installation
 
